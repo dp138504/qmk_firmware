@@ -54,8 +54,8 @@
       "x": 0.25,
       "c": "#45b866",
       "f": 4,
-      "w": 14,
-      "h": 5,
+      "w": 9.5,
+      "h": 6.5,
       "d": true
     },
     "<p>Legend:<li>Top left: Space Function</li><li>Top Right: Raise Layer</li><li>Bottom Left: Lower Layer</li><li>Bottom Right: Adjust Layer</li></p><p>Adjust Info:<li>Reset: Puts keyboard into firmware flashing mode</li><li>Mi Off/On: Midi mode - Toggles midi mode state</li><li>Au Off/On: Audio Off/On - Toggles on-board audio state</li><li>Mu Off/On: Music Off/On - Now your keyboard is a keyboard</li></p><p>Encoder Mapping (Counter clockwise/Clockwise):<li>QWERTY/COLEMAK: Volume Down/Volume Up</li><li>Lower: Undo/Redo</li><li>Raise: Mouse Wheel Up/Mouse Wheel Down</li><p>Notes:<li>CAPS word is enabled, hit left shift twice to enable</li><li>Dynamic Tapping Term is enabled on the adjust layer to modify CAPS word</li><li>Press and hold return for right shift</li><li>Bottom right key is a rotary encoder</li>"
