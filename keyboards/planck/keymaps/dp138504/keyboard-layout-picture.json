@@ -1,0 +1,266 @@
+[
+  {
+    "switchMount": "cherry",
+    "plate": true,
+    "css": ""
+  },
+  [
+    {
+      "c": "#e26757",
+      "fa": [
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    "PrntSc\n\n`\nreset\n\n\n\n\n\nEsc",
+    {
+      "c": "#c8c4b8",
+      "fa": [
+        1,
+        2,
+        0,
+        1
+      ]
+    },
+    "\n1\n!\nqwerty\n\n\n\n\n\nQ",
+    "\n2\n@\n\n\n\n\n\n\nW",
+    "up\n3\n#\n\n\n\n\n\n\nF",
+    "\n4\n$\n\n\n\n\n\n\nP",
+    "\n5\n%\n\n\n\n\n\n\nG",
+    "\n6\n^\n\n\n\n\n\n\nJ",
+    "\n7\n&\n\n\n\n\n\n\nL",
+    "\n8\n*\n\n\n\n\n\n\nU",
+    "\n9\n(\nmi off\n\n\n\n\n\nY",
+    "\n0\n)\nmi on\n\n\n\n\n:\n;",
+    {
+      "c": "#aca494",
+      "fa": [
+        1,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "delwd\n\n\n\n\n\n\n\n\nBkSp",
+    {
+      "x": 0.25,
+      "c": "#45b866",
+      "f": 4,
+      "w": 14,
+      "h": 5,
+      "d": true
+    },
+    "<p>Legend:<li>Top left: Space Function</li><li>Top Right: Raise Layer</li><li>Bottom Left: Lower Layer</li><li>Bottom Right: Adjust Layer</li></p><p>Adjust Info:<li>Reset: Puts keyboard into firmware flashing mode</li><li>Mi Off/On: Midi mode - Toggles midi mode state</li><li>Au Off/On: Audio Off/On - Toggles on-board audio state</li><li>Mu Off/On: Music Off/On - Now your keyboard is a keyboard</li></p><p>Encoder Mapping (Counter clockwise/Clockwise):<li>QWERTY/COLEMAK: Volume Down/Volume Up</li><li>Lower: Undo/Redo</li><li>Raise: Mouse Wheel Up/Mouse Wheel Down</li><p>Notes:<li>CAPS word is enabled, hit left shift twice to enable</li><li>Dynamic Tapping Term is enabled on the adjust layer to modify CAPS word</li><li>Press and hold return for right shift</li><li>Bottom right key is a rotary encoder</li>"
+  ],
+  [
+    {
+      "c": "#aca494",
+      "fa": [
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "\ndel\ndel\n\n\n\n\n\n\nTab",
+    {
+      "c": "#c8c4b8",
+      "f": 3
+    },
+    "\n\n~\n\n\n\n\n\n\nA",
+    {
+      "fa": [
+        1
+      ]
+    },
+    "left\n\n\n\n\n\n\n\n\nR",
+    "down\n\n/\n\n\n\n\n\n\nS",
+    {
+      "n": true
+    },
+    "right\n\n{\n\n\n\n\n\n\nT",
+    "\n\n[\n\n\n\n\n\n\nD",
+    "\n*\n]\n\n\n\n\n\n\nH",
+    {
+      "fa": [
+        1,
+        2
+      ],
+      "n": true
+    },
+    "left\n4\n}\n\n\n\n\n\n\nN",
+    "down\n5\n\\\n\n\n\n\n\n\nE",
+    {
+      "fa": [
+        1,
+        2,
+        0,
+        1
+      ]
+    },
+    "up\n6\n-\nau off\n\n\n\n\n\nI",
+    {
+      "fa": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "right\n-\n+\nau on\n\n\n\n\n\nO",
+    "\n\n|\n\n\n\n\n\n\n\"\n'"
+  ],
+  [
+    {
+      "c": "#aca494",
+      "a": 7,
+      "f": 3
+    },
+    "Shift",
+    {
+      "c": "#c8c4b8",
+      "f": 3
+    },
+    "Z",
+    {
+      "f": 3
+    },
+    "X",
+    {
+      "a": 4,
+      "f": 3
+    },
+    "\n\n\ncolemak\n\n\n\n\n\nC",
+    {
+      "a": 7,
+      "f": 3
+    },
+    "V",
+    {
+      "a": 4
+    },
+    "\n\n<\n\n\n\n\n\n\nB",
+    "\n/\n>\n\n\n\n\n\n\nK",
+    {
+      "fa": [
+        1,
+        2
+      ]
+    },
+    "\n1\n\n\n\n\n\n\n\nM",
+    "\n2\n\n\n\n\n\n\n<\n,",
+    {
+      "fa": [
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    "\n3\n_\nmus off\n\n\n\n\n>\n.",
+    {
+      "fa": [
+        1,
+        0,
+        2,
+        1
+      ]
+    },
+    "shg\n+\n=\nmus on\n\n\n\n\n?\n/",
+    {
+      "c": "#00a477",
+      "a": 7,
+      "f": 3
+    },
+    "Enter"
+  ],
+  [
+    {
+      "c": "#d9dae0",
+      "fa": [
+        2
+      ],
+      "d": true
+    },
+    "Vol Mute",
+    {
+      "c": "#aca494",
+      "f": 3
+    },
+    "Ctrl",
+    {
+      "f": 3
+    },
+    "Alt",
+    {
+      "f": 3
+    },
+    "Sys",
+    {
+      "c": "#e26757",
+      "f": 3
+    },
+    "&dArr;",
+    {
+      "c": "#c8c4b8"
+    },
+    "",
+    "",
+    {
+      "c": "#00a477",
+      "f": 3
+    },
+    "&uArr;",
+    {
+      "c": "#aca494",
+      "a": 4,
+      "fa": [
+        2,
+        2,
+        1,
+        1
+      ]
+    },
+    "\n0\nhome\ndtPrt\n\n\n\n\n\nLeft",
+    {
+      "fa": [
+        2,
+        8,
+        1,
+        1
+      ]
+    },
+    "\n.\nPgDn\ndtDwn\n\n\n\n\n\nDown",
+    {
+      "fa": [
+        2,
+        0,
+        1,
+        1
+      ]
+    },
+    "\n=\nPgUp\ndtUp\n\n\n\n\n\nUp",
+    {
+      "fa": [
+        2,
+        0,
+        2
+      ]
+    },
+    "\n\nend\n\n\n\n\n\n\nRight"
+  ]
+]
